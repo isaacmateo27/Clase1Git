@@ -16,3 +16,10 @@ git commit -m "comentario"
 Agregar y comentar los cambios
 
 git commit -am "Modiffique el archivo 1"
+
+Crear una rama
+
+git branch rama1
+
+como ver la ramas creadas: 
+git branch 
