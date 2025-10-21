@@ -12,3 +12,7 @@ m archivo modificado
 
 commit es un cambio con comentario, agregar comentario a la etapa
 git commit -m "comentario"
+
+Agregar y comentar los cambios
+
+git commit -am "Modiffique el archivo 1"
