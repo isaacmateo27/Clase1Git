@@ -23,3 +23,6 @@ git branch rama1
 
 como ver la ramas creadas: 
 git branch 
+
+cambiar de rama:
+git checkout rama1
