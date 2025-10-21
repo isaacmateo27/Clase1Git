@@ -29,3 +29,6 @@ git checkout rama1
 
 Fusionar Ramas:
 git merge nombre de la rama que quiero unir
+
+
+clase terminada 
