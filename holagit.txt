@@ -1,0 +1,14 @@
+Inicializa el seguimiento de la carpeta
+git init
+
+Agregar archivos para su control 
+git add .\adios.txt  // agrega solo referido
+
+git add . agrega todos los archivos
+
+u sin seguimiento
+a archivo añadido 
+m archivo modificado 
+
+commit es un cambio con comentario, agregar comentario a la etapa
+git commit -m "comentario"
